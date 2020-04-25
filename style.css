@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    width:100%
+
+}
+.half-width{
+    width:45%;
+    float:left;
+    margin-left: 4%;
+    padding: 4%;
+}
+.intro{
+    margin-top: 30px;
+}
+.rahabi{
+    color:#FFB725;
+}
+.half-width h1{
+    font-size: 50px;
+}
+.half-width p{
+    margin-top: 20px;
+    text-align: justify;
+}
+.half-width img{
+    width: 100%;
+}
