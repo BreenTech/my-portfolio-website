@@ -67,3 +67,32 @@ section{
 .rahabii{
     margin-top: -34px;
 }
+.experience h1{
+ margin-left: 110px;
+ margin-bottom: 30px;
+}
+.single_exp{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    background-color: white;
+}
+#baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(to bottom,#FFBF21, #FA6E5A);
+    border-image-slice: 1;
+}
+#full{
+    border-left: 7px solid;
+    border-image: linear-gradient(to bottom, #0000ff, #5ae2fa);
+    border-image-slice: 1;
+}
+
+.experience{
+    background-image: url("img/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer{
+    text-align: center;
+    margin-bottom: 30px;
+}
