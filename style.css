@@ -5,7 +5,7 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
-    width:100%
+   
 
 }
 .half-width{
@@ -26,7 +26,44 @@ body{
 .half-width p{
     margin-top: 20px;
     text-align: justify;
+    
 }
 .half-width img{
     width: 100%;
+}
+.top_banner{
+    background-image: url("img/top-banner.png") ;
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 30px;
+    overflow: hidden;
+   
+}
+.link_btn{
+    text-decoration: none;
+    border-radius: 20px;
+    display: inline-block;
+    font-weight: bold;
+    color:white;
+    margin-top: 10px;
+    padding: 5px 30px;
+    background: linear-gradient(to right,#FFBF21, #FA6E5A );
+}
+.half-width h2{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.dream_big{
+    background-image: url("img/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 100vh;
+}
+.dream-intro{
+    margin-left:-24px;
+} 
+.rahabii{
+    margin-top: -34px;
 }
